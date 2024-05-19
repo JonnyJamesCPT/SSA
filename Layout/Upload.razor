@@ -1,0 +1,18 @@
+@page "/upload"
+@using Microsoft.AspNetCore.Components.Forms
+@inject NavigationManager Navigation
+
+<PageTitle>Upload</PageTitle>
+
+<h3>Upload Database File</h3>
+
+<EditForm>
+    <InputFile OnChange="HandleFileSelected" />
+</EditForm>
+
+@code {
+    private void HandleFileSelected(InputFileChangeEventArgs e)
+    {
+        // Handle the file upload logic here
+    }
+}

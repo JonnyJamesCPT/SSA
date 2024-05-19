@@ -1,0 +1,19 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>My App</PageTitle>
+
+<AuthorizeView>
+    <Authorized>
+        <div class="main-layout">
+            <NavMenu />
+            <div class="content px-4">
+                @Body
+            </div>
+        </div>
+    </Authorized>
+    <NotAuthorized>
+        <p>You are not authorized to view this content.</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+<AuthorizeRouteView RouteData="@RouteData" DefaultLayout="@typeof(MainLayout)" />

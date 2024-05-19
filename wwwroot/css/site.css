@@ -1,0 +1,4 @@
+/* Add to your existing site.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

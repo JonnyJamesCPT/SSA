@@ -1,0 +1,6 @@
+/workspaces/dotnet-codespaces/FrontEnd/obj/Debug/net7.0/FrontEnd.csproj.AssemblyReference.cache
+/workspaces/dotnet-codespaces/FrontEnd/obj/Debug/net7.0/FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-codespaces/FrontEnd/obj/Debug/net7.0/FrontEnd.AssemblyInfoInputs.cache
+/workspaces/dotnet-codespaces/FrontEnd/obj/Debug/net7.0/FrontEnd.AssemblyInfo.cs
+/workspaces/dotnet-codespaces/FrontEnd/obj/Debug/net7.0/FrontEnd.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-codespaces/FrontEnd/obj/Debug/net7.0/FrontEnd.MvcApplicationPartsAssemblyInfo.cache
